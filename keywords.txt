@@ -1,0 +1,71 @@
+#######################################
+# Syntax Coloring Map For DateTimeFunctions
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DateTimeFunctions	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# Set
+setDFormat	KEYWORD2
+setCFormat	KEYWORD2
+setDZero		KEYWORD2
+setHZero		KEYWORD2
+
+# Check
+isLeap		KEYWORD2
+isPM		KEYWORD2
+
+# Get
+getDOY		KEYWORD2
+getDOW		KEYWORD2
+getDOWNS	KEYWORD2
+getDOWNL	KEYWORD2
+getWOY		KEYWORD2
+getWIY		KEYWORD2
+getDIY		KEYWORD2
+getDLIY		KEYWORD2
+getDIM		KEYWORD2
+getMNS		KEYWORD2
+getMNL		KEYWORD2
+getDBD		KEYWORD2
+getSFM		KEYWORD2
+getMFM		KEYWORD2
+getAMPM		KEYWORD2
+
+# Convert
+con24To12	KEYWORD2
+con12To24	KEYWORD2
+conDOY2DATE	KEYWORD2
+conDOY2D	KEYWORD2
+conDOY2M	KEYWORD2
+conDT2UT	KEYWORD2
+conUT2DT	KEYWORD2
+conSec2DT	KEYWORD2
+conSec2Time	KEYWORD2
+conSec2Time64	KEYWORD2
+conDT2Sec	KEYWORD2
+conTime2Sec	KEYWORD2
+conNum2Roman	KEYWORD2
+conGre2Jul	KEYWORD2
+
+# Date
+date2Str		KEYWORD2
+
+# Clock
+clock2Str		KEYWORD2
+clock2StrAMPM	KEYWORD2
+sec2Clock		KEYWORD2
+sec2ClockAMPM	KEYWORD2
+romanClock	KEYWORD2
+romanClock12	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
