@@ -1,0 +1,23 @@
+{
+  "name": "DateTimeFunctions",
+  "keywords": "DateTimeFunctions",
+  "description": "Collection of date & time functions. Check, Convert, Get, Clock & Date. Works with RTC and NTP.",
+  "authors":
+  [
+    {
+      "name": "XbergCode",
+      "email": "xberg88@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/XbergCode/DateTimeFunctions"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "DateTimeFunctions.h"
+}
